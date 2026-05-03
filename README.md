@@ -14,3 +14,5 @@ A 2D endless runner game built in Unity featuring physics-based movement, obstac
 - C#
 
 ## Screenshots
+![Gameplay Screenshot](GAME.png
+![GameOver Screenshot](END.png)
